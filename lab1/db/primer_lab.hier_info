@@ -1,0 +1,23 @@
+|primer_lab
+Row[0] << <GND>
+Row[1] << <GND>
+Row[2] << <GND>
+Row[3] << <GND>
+Col[0] => Equal0.IN7
+Col[1] => Equal0.IN6
+Col[2] => Equal0.IN5
+Col[3] => Equal0.IN4
+BCD[0] << <GND>
+BCD[1] << <GND>
+BCD[2] << <GND>
+BCD[3] << <GND>
+Segments[0] <= <VCC>
+Segments[1] <= <GND>
+Segments[2] <= <GND>
+Segments[3] <= <GND>
+Segments[4] <= <GND>
+Segments[5] <= <GND>
+Segments[6] <= <GND>
+DisplayOn <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+
+

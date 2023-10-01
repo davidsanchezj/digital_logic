@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DisplayOn",
+					"strict" : false
+				},
+				{
+					"name" : "Col[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Col[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Col[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Col[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

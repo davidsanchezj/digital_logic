@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Zero[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Zero[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Zero[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_ALUOP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_ALUOP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED_ALUOP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
